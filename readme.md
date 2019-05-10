@@ -1,7 +1,7 @@
 # TUGAS 2 ASISTENSI ALPRO - Sabtu , 04 Mei 2019
-NAMA:   
+NAMA:   Dita Prihatini
 
-NRP:    
+NRP:    06111840000080
 
 
 ## DESKRIPSI SOAL
